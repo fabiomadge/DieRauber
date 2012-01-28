@@ -1,0 +1,3 @@
+LaTeX Projekt mit allen Dateien zu einem Lesetagebuch zu Fridrich Schillers "Die Räuber".
+
+texi2pdf dieRäuber.tex
